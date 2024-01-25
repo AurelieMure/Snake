@@ -1,7 +1,7 @@
 # Snake
 Jeu Snake C++
 
-## 1- Conception global :
+##  Conception global :
 
 Le jeu Snake en C++ est composé de deux niveaux de difficulté : Facile et Difficile accessible via un menu interactif.
 
