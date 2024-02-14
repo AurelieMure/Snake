@@ -11,5 +11,5 @@ Le jeu Snake en C++ est composé de deux niveaux de difficulté : Facile et Dif
 Le niveau facile présente une augmentation progressive ce qui rend le gameplay accessible.
 
 - Difficile :
-Dans le niveau Difficile le temps va augmenter rapidement pour le rendre plus complexe.
+  Dans le niveau Difficile le temps va augmenter rapidement pour le rendre plus complexe.
 De plus ce niveau introduit deux murs au centre de la carte 
