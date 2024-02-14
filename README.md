@@ -12,4 +12,4 @@ Le niveau facile présente une augmentation progressive ce qui rend le gameplay 
 
 - Difficile :
   Dans le niveau Difficile le temps va augmenter rapidement pour le rendre plus complexe.
-De plus ce niveau introduit deux murs au centre de la carte 
+  De plus ce niveau introduit deux murs au centre de la carte 
