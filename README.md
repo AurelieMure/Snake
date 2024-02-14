@@ -5,8 +5,7 @@ Jeu Snake C++
 
 Le jeu Snake en C++ est composé de deux niveaux de difficulté : Facile et Difficile accessible via un menu interactif.
 
-- Dans les deux niveaux
-On peut retrouver des fruits spéciaux qui rapport 5 points au joueur avec le score qui est affiché en bas à gauche de la map
+- Dans les deux niveaux on peut retrouver des fruits spéciaux qui rapport 5 points au joueur avec le score qui est affiché en bas à gauche de la map
 
 - Facile
 Le niveau facile présente une augmentation progressive ce qui rend le gameplay accessible.
